@@ -1,0 +1,9 @@
+*.iml
+
+.idea/
+.idea_modules/
+project/
+projectFilesBackup/
+target/
+
+.DS_Store
